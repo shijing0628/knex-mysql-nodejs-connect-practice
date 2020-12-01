@@ -20,3 +20,5 @@ knex migrate:rollback
 ```
 knex seed:run
 ```
+
+saved at :F:\York University\FS1020-nodejs-express\knex-mysql-practice-connection
