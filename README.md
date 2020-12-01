@@ -1,8 +1,14 @@
-Knex connect MYSQL database with nodejs-express
+# Knex connect MYSQL database with nodejs-express
 
 port: 4000
 
+```
 npm run dev
+```
+
+```
+npm start
+```
 
 videos : check env file
 
