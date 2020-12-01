@@ -4,7 +4,7 @@ var options = {
   connection: {
    host: '127.0.0.1',
    user: 'root',
-   password: 'Password',
+   password: process.env.PASSWORD,
    database: 'todoapp',
    tableName: '20201201100957_create_users_and_todos_tables',
    port: 3306

@@ -10,6 +10,8 @@ npm run dev
 npm start
 ```
 
+### Before run above command, change knex.js password to env file password.
+
 videos : check env file
 
 connect mysql:knex.js
